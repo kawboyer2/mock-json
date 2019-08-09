@@ -1,1 +1,11 @@
-
+{
+  "api_key": "titel",
+  "id": "517624",
+  "value": "Titel 2"
+},
+{
+  "id": "517625",
+  "api_key": "paragraph",
+  "id": "517625",
+  "value": "Another paragraph to translate"
+}
